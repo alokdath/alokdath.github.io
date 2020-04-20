@@ -1,26 +1,19 @@
 ## Portfolio
 
----
+SYSTEMS SUPPORT ENGINEER SENIOR LEAD @AKAMAI TECHNOLOGIES INC
+July 2016 – Till date
 
-### Category Name 1 
+•	Managing the global systems engineering team handling 16 enterprise applications. The team handles the administration, support & maintenance of these applications. These applications include Jira, Confluence, Bitbucket, Black Duck, Coverity, Artifactory and Perforce.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+•	Planning, managing and executing programs, which include Application migrations, change management activities & effective problem management)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+•	In charge of Integration, Customization and deployment of various internal applications. 
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+•	Implemented the Jira Best practices for the new development teams and non-technical teams(For eg; Marketing, HR & Sales)
 
----
 
-### Category Name 2
+•	Procurement of third party applications for the entire organization. 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+•	Won multiple spot awards and double promotion during the tenure at Akamai. 
+
+
