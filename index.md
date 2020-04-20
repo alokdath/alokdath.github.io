@@ -1,12 +1,13 @@
 ## Portfolio
 
 
-PROFESSIONAL ABRIDGEMENT
+## PROFESSIONAL ABRIDGEMENT
 
 I have 8.5 years of experience in IT industry with good understanding in application maintenance and operations support and currently I am working as Systems Support Engineer.Senior Lead at Akamai Technologies
 
 
-At Akamai -
+## At Akamai -
+
 • Administering Jira, Confluence, Artifactory, Blackduck, Coverity, Perforce & Bitbucket.
 
 • Manage the global system support team.
@@ -44,7 +45,8 @@ At Akamai -
 • Dealing with various vendors from Atlassian Market place and resolving multiple issues(Zephyr, Script Runner etc.,).
 
 
-At Infosys -
+## At Infosys -
+
 • Work with other system owners to integrate key data from other systems into JIRA/Confluence and vice versa.
 
 • Manage user accounts and provide/revoke access to new users to the banking tools/instances.
@@ -76,7 +78,8 @@ compliance and maintain best practices.
 • Additional responsibilities – Team building Activity anchor; Sharing MOM of team meetings with team and
 management; Knowledge Management Anchor of the team.
  
-CORE COMPETENCIES
+## CORE COMPETENCIES
+
 • Production Support
 
 • Devops
@@ -103,14 +106,3 @@ CORE COMPETENCIES
 
 • Top class communication
 
-ACCOMPLISHMENTS
-
-• Received the topmost peer rating for the previous year.
-
-• Appreciated by client and PM for excellent performance in projects.
-
-• Received Certificate of Appreciation (Several times Spot Awards) for the projects worked on.
-
-• Always ensured smooth deployment and no quality issues with the project deliverables.
-
-• Attended Atlassian Summit in Barcelona, Spain on September 2018.
