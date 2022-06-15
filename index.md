@@ -1,4 +1,1 @@
-Established software professional with close to 10 years of experience in the industry in product program management and setting up and managing world class support systems for enterprise applications. 
-
-Currently working as a Technical Program Manager for the Media division at Akamai Technologies Inc.
-
+Excellence driven individual with 10+ years of extensive experience in global IT Project, Program and Portfolio Management. Rich professional experience in both service delivery and product development organizations. Hands on in leading diverse engineering and project management teams across multiple geographies. Thorough knowledge in Agile frameworks, Scrum, Waterfall and other software development techniques.
