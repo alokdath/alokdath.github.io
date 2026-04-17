@@ -4,8 +4,8 @@ title: Home
 ---
 
 <header style="margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.5rem;">Hi, I'm [Your Name] 👋</h1>
-  <p><strong>[Your Profession/Title] | [Your Location]</strong></p>
+  <h1 style="margin-bottom: 0.5rem;">Hi, I'm Alok Dath 👋</h1>
+  <p><strong>Sr Technical Program Manager | Bengaluru</strong></p>
   <p>I build [things you build] and specialize in [Skill 1], [Skill 2], and [Skill 3]. Welcome to my digital workspace.</p>
 </header>
 
