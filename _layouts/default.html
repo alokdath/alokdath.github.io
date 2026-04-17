@@ -1,63 +1,53 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <title>Alok Dath</title>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+title: Home
+---
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-       
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+<header style="margin-bottom: 2rem;">
+  <h1 style="margin-bottom: 0.5rem;">Hi, I'm [Your Name] 👋</h1>
+  <p><strong>[Your Profession/Title] | [Your Location]</strong></p>
+  <p>I build [things you build] and specialize in [Skill 1], [Skill 2], and [Skill 3]. Welcome to my digital workspace.</p>
+</header>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+<hr>
 
+<section id="about" style="margin-top: 2rem;">
+  <h2>About Me</h2>
+  <p>
+    Write a brief paragraph about your background, what drives you, and what you are currently learning or working on. Keep it concise, professional, but inject a little bit of your personality.
+  </p>
+</section>
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
+<section id="projects" style="margin-top: 2rem;">
+  <h2>Featured Projects</h2>
+  <ul>
+    <li style="margin-bottom: 1rem;">
+      <strong><a href="https://github.com/yourusername/project-1" target="_blank">Project Name 1</a></strong><br>
+      <em>Tech Stack: [e.g., Python, React, AWS]</em><br>
+      A one-sentence description of what this project does and why you built it.
+    </li>
+    <li style="margin-bottom: 1rem;">
+      <strong><a href="https://github.com/yourusername/project-2" target="_blank">Project Name 2</a></strong><br>
+      <em>Tech Stack: [e.g., HTML, CSS, JavaScript]</em><br>
+      Another cool project. Highlight any specific problems you solved here.
+    </li>
+  </ul>
+</section>
 
-      {{ content }}
+<section id="experience" style="margin-top: 2rem;">
+  <h2>Experience</h2>
+  <div style="margin-bottom: 1rem;">
+    <strong>[Your Current Role]</strong> at <em>[Company/Organization]</em> <span style="float: right;">[Year] &ndash; Present</span><br>
+    A quick highlight of your primary responsibility or biggest achievement.
+  </div>
+</section>
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; © Alok Dath</small></p>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
-  </body>
-</html>
+<section id="contact" style="margin-top: 2rem;">
+  <h2>Get in Touch</h2>
+  <p>I'm always open to discussing new opportunities, open-source collaborations, or just chatting about [insert interest here].</p>
+  <ul>
+    <li>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li>🐙 GitHub: <a href="https://github.com/yourusername">@yourusername</a></li>
+    <li>💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">in/yourprofile</a></li>
+  </ul>
+</section>
